@@ -1,0 +1,7 @@
+numpy==2.5.3
+pandas==2.3.3
+scipy==1.18.1
+matplotlib==3.11.2
+Pillow==11.3.0
+streamlit==1.40.2
+streamlit-drawable-canvas==0.9.3

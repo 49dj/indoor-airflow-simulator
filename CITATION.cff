@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite this prototype repository and its exact commit; do not describe it as validated CFD."
+title: "Indoor thermal and airflow simulator prototype"
+type: software
+authors:
+  - family-names: Hu
+    given-names: Yizhe
+repository-code: "https://github.com/49dj/indoor-airflow-simulator"
+version: 0.1.0
